@@ -57,10 +57,10 @@ Chaotic and unpredictable elements in the data were discussed, such as human sub
 
 ---
 
-## Créditos
+## Credits
 
-Trabajo realizado como parte de un análisis sistémico de competencia de machine learning en Kaggle.  
-Autores: 
+Work carried out as part of a systemic analysis of machine learning competition on Kaggle.
+Authors:
 
 Laura Nathaly Paez Cifuentes
 Andrey Camilo Gonzales Caceres
