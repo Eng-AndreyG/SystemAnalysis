@@ -2,7 +2,7 @@
 # Workshop 1
 
 ## Kaggle Systems Engineering Analysis of Jigsaw Unintended Bias in Toxicity Classification
-
+https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
 ## Why this competition?
 
 This competition was chosen primarily for its dataset, which is mostly natural language processing (NLP) and numerical data, which are easier to analyze to identify system relationships and how the dataset is structured. Furthermore, since it is an artificial intelligence model, this type of language is easier to analyze than the use of images commonly seen in datasets from other competitions that were of interest to us. Another reason we chose this competition is because each comment in the dataset, when classified, makes it much easier for us to understand the topic on which the competition is based. This is unlike other competitions, such as identifying whales or cars, that didn't allow us to identify them in the dataset. This saves us the huge step of having to thoroughly investigate the topic to perform the systematic analysis.
@@ -65,5 +65,6 @@ Authors:
 Laura Nathaly Paez Cifuentes, 
 Andrey Camilo Gonzales Caceres, 
 Hugo Mojica Angarita
+
 
 ---
