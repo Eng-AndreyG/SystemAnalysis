@@ -62,8 +62,8 @@ Chaotic and unpredictable elements in the data were discussed, such as human sub
 Work carried out as part of a systemic analysis of machine learning competition on Kaggle.
 Authors:
 
-Laura Nathaly Paez Cifuentes
-Andrey Camilo Gonzales Caceres
+Laura Nathaly Paez Cifuentes, 
+Andrey Camilo Gonzales Caceres, 
 Hugo Mojica Angarita
 
 ---
