@@ -3,19 +3,19 @@
 
 This repository contains the development process and system design for Workshop 2 of the *Systems Analysis & Design* course (Semester 2025-I). The workshop focuses on designing a robust system to participate in the Kaggle competition **"Jigsaw Unintended Bias in Toxicity Classification"**, based on the system analysis carried out in Workshop 1.
 
-## 📌 Objectives
+## Objectives
 
 - Translate the findings from the previous analysis into a concrete, modular, and scalable system design.
 - Incorporate strategies to address sensitivity and chaos caused by subjective annotations.
 - Propose an implementation sketch using modern tools and engineering principles.
 
-## 🧠 Key Insights from Workshop 1
+## Key Insights from Workshop 1
 
 - **Constraints**: Resource limitations, single dataset availability, and ethical concerns such as subgroup bias.
 - **Chaos & Sensitivity**: Arise from human subjectivity, ambiguous language, and small variations in identity-related inputs.
 - **Data Nature**: Multidimensional data with 7 different toxicity categories, subject to annotator inconsistencies.
 
-## 🧱 System Architecture
+## System Architecture
 
 The design is composed of modular components, each with a specific responsibility. Key modules include:
 
@@ -30,14 +30,14 @@ All components interact through clean, decoupled interfaces (mainly Pandas DataF
 
 ![System Architecture](./img/architecture.png)
 
-## ⚙️ Technical Stack
+## Technical Stack
 
 - **Language**: Python
 - **Libraries**: NumPy, Pandas, Scikit-learn
 
 This stack supports structured data manipulation, lightweight modeling, and sensitive subgroup analysis under the competition constraints (e.g., RAM limits and fairness metrics).
 
-## 🌪️ Chaos & Sensitivity Mitigation
+## Chaos & Sensitivity Mitigation
 
 To handle unpredictable behavior caused by annotation variability and implicit biases:
 
@@ -45,13 +45,13 @@ To handle unpredictable behavior caused by annotation variability and implicit b
 - `AnnotatorWeightCalculator`: Adjusts predictions by assigning dynamic weights to annotator decisions.
 - Non-linear feedback risks and bifurcations are mitigated by reinforcing fair metric evaluation and subgroup-aware performance validation.
 
-## 📄 Documentation
+## Documentation
 
 The full system design is available in the `Workshop2_Design` PDF:
 
 📎 [System Design Document (PDF)](./Workshop2_Design/Workshop2_Design.pdf)  
 
-## ✅ Deliverables Summary
+## Deliverables Summary
 
 - [x] System Design Document (PDF)
 - [x] Architecture Diagrams
