@@ -57,6 +57,7 @@ Chaotic and unpredictable elements in the data were discussed, such as human sub
 
 ---
 
+### Report Link https://github.com/Eng-AndreyG/SystemAnalysis/blob/main/Workshops/Workshop1/systemAnalysisCompetition.pdf
 ## Credits
 
 Work carried out as part of a systemic analysis of machine learning competition on Kaggle.
