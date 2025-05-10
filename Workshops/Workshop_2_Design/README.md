@@ -49,7 +49,7 @@ To handle unpredictable behavior caused by annotation variability and implicit b
 
 The full system design is available in the `Workshop2_Design` PDF:
 
-📎 [System Design Document (PDF)](./Workshop2_Design/Workshop2_Design.pdf)  
+📎 [System Design Document (PDF)](https://github.com/Eng-AndreyG/SystemAnalysis/blob/main/Workshops/Workshop_2_Design/Workshop2.pdf)  
 
 ## Deliverables Summary
 
