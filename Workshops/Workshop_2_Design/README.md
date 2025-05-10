@@ -28,7 +28,7 @@ The design is composed of modular components, each with a specific responsibilit
 
 All components interact through clean, decoupled interfaces (mainly Pandas DataFrames), allowing scalability and easy maintenance.
 
-![System Architecture](./img/Systemblueprint.drawio (1).png)
+![System Architecture](./img/Model.png)
 
 ## Technical Stack
 
