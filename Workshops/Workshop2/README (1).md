@@ -1,5 +1,5 @@
 
-# Workshop 2 – Systems Design for Toxic Comment Classification
+# Workshop 2 – Systems Design for Jigsaw Unintended Bias in Toxicity Classification
 
 This repository contains the development process and system design for Workshop 2 of the *Systems Analysis & Design* course (Semester 2025-I). The workshop focuses on designing a robust system to participate in the Kaggle competition **"Jigsaw Unintended Bias in Toxicity Classification"**, based on the system analysis carried out in Workshop 1.
 
