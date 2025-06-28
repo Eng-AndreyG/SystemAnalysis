@@ -42,34 +42,28 @@ We ran three types of tests:
 | Positive ID    | 88%          |
 | Mixed Context  | 65%          |
 
-## How to Run
-1. Make sure you have Python 3.8+
-2. Install requirements:
-```bash
-pip install textblob scikit-learn pandas
+## Results
 
-## What We Found
-
-**What worked well:**
+**What worked well:**  
 - Detects obvious toxicity with 94% accuracy  
 - Reduces bias compared to baseline  
 - Handles simple threats effectively  
 
-**Problems we found:**
+**Problems we found:**  
 - Struggles with cultural references  
 - Misses some sarcasm (only 75% caught)  
 - Inconsistent with mixed tone comments  
 
-## Files Included
+## Files Included  
 - `toxicity_simulation.py` - Main simulation code  
-- `workshop3_report.pdf` - Full technical report 
+- `workshop3_report.pdf` - Full technical report  
 
-## Team
-- [Andrey Camilo Gonzlez Caceres]  
-- [Hugo Mojica Angarita]  
-- [Laura Paez Cifuentes]  
+## Team  
+- Andrey Camilo Gonzalez Caceres  
+- Hugo Mojica Angarita  
+- Laura Paez Cifuentes  
 
 Universidad Distrital Francisco José de Caldas  
-Systems Analysis & Design - 2025
+Systems Analysis & Design - 2025  
 
 
