@@ -1,3 +1,7 @@
 __pycache__
 venv 
 notebooks
+data
+Workshops/Workshop_3_Simulation/models/model.joblib
+Workshops/Workshop_3_Simulation/data/raw/train.csv
+Workshops/Workshop_3_Simulation/data/raw/identity_individual_annotations.csv
