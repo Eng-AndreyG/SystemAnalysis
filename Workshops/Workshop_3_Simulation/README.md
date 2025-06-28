@@ -55,7 +55,7 @@ We ran three types of tests:
 - Inconsistent with mixed tone comments  
 
 ## Files Included  
-- `toxicity_simulation.py` - Main simulation code  
+- [Code](./src) 
 - [Workshop document](./docs/Workshop3.pdf)
 
 ## Team  
