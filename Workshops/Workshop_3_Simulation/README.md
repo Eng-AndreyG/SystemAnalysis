@@ -56,7 +56,7 @@ We ran three types of tests:
 
 ## Files Included  
 - `toxicity_simulation.py` - Main simulation code  
-- `workshop3_report.pdf` - Full technical report  
+- [Workshop document](./docs/Workshop3.pdf)
 
 ## Team  
 - Andrey Camilo Gonzalez Caceres  
